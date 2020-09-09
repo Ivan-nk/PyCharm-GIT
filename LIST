@@ -1,0 +1,7 @@
+l = []
+lis = [1, 1, 2, 3, 5, 8, 13, 21]
+print (lis)
+lis.append (34)
+print (lis)
+lis.remove (34)
+print (lis)
